@@ -8,9 +8,21 @@ body {
   padding-top: 2rem;
   text-align: center;
 }
-h1,h2,h3{
-  color: rgb(54, 54, 54)
+h1,
+h2,
+h3 {
+  color: rgb(54, 54, 54);
 }
 
+body {
+  font-family: "Almarai", sans-serif;
+}
+
+h3,
+h4 {
+  // font-weight: 500; 
+  color: rgb(92, 91, 91)
+}
 @import "./song";
 @import "./player";
+@import "./library";
