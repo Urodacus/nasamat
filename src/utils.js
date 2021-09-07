@@ -11,7 +11,7 @@ function audios() {
         " https://f002.backblazeb2.com/file/habib01/audio/d/egtbas/egtbas104.lite.mp3",
       color: ["#205950, #2ab3bf"],
       id: uuidv4(),
-      active: false,
+      active: true,
     },
     {
       name: "إقتباس الأنوار من الإحياء - كتاب ذم الكبر والعجب - الدرس الثاني",
