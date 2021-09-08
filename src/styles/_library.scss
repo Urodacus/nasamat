@@ -13,6 +13,14 @@
   h2 {
     padding: 2rem;
   }
+  button {
+    cursor: pointer;
+    border: none;
+    padding: 1rem;
+    font-size: 2rem;
+    background-color: rgb(198, 204, 204);
+    color: rgb(105, 141, 102);
+  }
 }
 
 .library-song {
