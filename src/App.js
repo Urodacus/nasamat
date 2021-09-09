@@ -5,7 +5,7 @@ import Song from "./components/Song";
 import Library from "./components/Library";
 import Nav from "./components/Nav";
 //import util
-import data from "./utils";
+import data from "./data";
 
 function App() {
   // Ref
