@@ -19,10 +19,18 @@ body {
 
 h3,
 h4 {
-  // font-weight: 500; 
-  color: rgb(92, 91, 91)
+  // font-weight: 500;
+  color: rgb(92, 91, 91);
+}
+
+.App {
+  transition: all 0.5s ease;
+}
+
+.library-active {
+  margin-left: 30%;
 }
 @import "./song";
 @import "./player";
 @import "./library";
-@import "./nav"
+@import "./nav";
