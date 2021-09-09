@@ -34,14 +34,24 @@ const LibrarySong = ({
   };
 
   return (
-    <div
-      onClick={songSelectHandler}
-      className={`library-song ${song.active ? "selected" : ""}`}
-    >
-      <img alt={song.name} src={song.cover}></img>
-      <div className="song-description">
-        <h3>{song.name}</h3>
-        <h4>{song.author}</h4>
+    <div>
+      <div
+        style={{
+          textAlign: "center",
+          fontSize: "0.7rem",
+        }}
+      >
+        <h1>{song.head}</h1>
+      </div>
+      <div
+        onClick={songSelectHandler}
+        className={`library-song ${song.active ? "selected" : ""}`}
+      >
+        <img alt={song.name} src={song.cover}></img>
+        <div className="song-description">
+          <h3>{song.name}</h3>
+          <h4>{song.author}</h4>
+        </div>
       </div>
     </div>
   );

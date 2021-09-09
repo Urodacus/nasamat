@@ -2,7 +2,8 @@ import { v4 as uuidv4 } from "uuid";
 
 function audios() {
   return [
-    {
+    { 
+      head:"اقتباس الأنوار من الإحياء",
       name: "إقتباس الأنوار من الإحياء - كتاب ذم الكبر والعجب - الدرس الأول",
       cover:
         "https://upload.wikimedia.org/wikipedia/commons/0/07/Habib_Umar_bin_Hafidz%2C_Nabawi_TV%2C_08.44.jpg",
