@@ -19,6 +19,11 @@ const Library = ({
           justifyContent: "space-between",
           alignItems: "center",
           paddingRight: "1.5rem",
+          top: "0",
+          position: "sticky",
+          zIndex: "1",
+          backgroundColor: "rgb(198, 204, 204)",
+          borderBottom: "2px solid rgb(105, 141, 102)",
         }}
       >
         <h2>Library</h2>
