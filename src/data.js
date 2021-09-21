@@ -63,6 +63,66 @@ function audios() {
       id: uuidv4(),
       active: false,
     },
+    {
+      name: "عجائب تقليب القلوب وكرامة المحبة مِن ولِعلام الغيوب",
+      cover:
+        "https://upload.wikimedia.org/wikipedia/commons/0/07/Habib_Umar_bin_Hafidz%2C_Nabawi_TV%2C_08.44.jpg",
+      author: "Habib Omar - http://alhabibomar.com",
+      audio: " https://f002.backblazeb2.com/file/habib01/audio/m42/m271242.mp3",
+      color: ["#205950, #2ab3bf"],
+      id: uuidv4(),
+      active: false,
+    },
+    {
+      name: "عظمة دعوة الحق وآثارها في الوجود واليوم الموعود",
+      cover:
+        "https://upload.wikimedia.org/wikipedia/commons/0/07/Habib_Umar_bin_Hafidz%2C_Nabawi_TV%2C_08.44.jpg",
+      author: "Habib Omar - http://alhabibomar.com",
+      audio: " https://f002.backblazeb2.com/file/habib01/audio/m42/m201242.mp3",
+      color: ["#205950, #2ab3bf"],
+      id: uuidv4(),
+      active: false,
+    },
+    {
+      name: "معاني من حقائق قُرب الإله الخلاق من عباده ثم قُرب أكرم خلقه عليه في وعي الوحي والمسلك والفكر",
+      cover:
+        "https://upload.wikimedia.org/wikipedia/commons/0/07/Habib_Umar_bin_Hafidz%2C_Nabawi_TV%2C_08.44.jpg",
+      author: "Habib Omar - http://alhabibomar.com",
+      audio: " https://f002.backblazeb2.com/file/habib01/audio/m42/m061242.mp3",
+      color: ["#205950, #2ab3bf"],
+      id: uuidv4(),
+      active: false,
+    },
+    {
+      name: "وجوب إدراك المزايا في روابط الأرواح والتعاون على القيام بحقها",
+      cover:
+        "https://upload.wikimedia.org/wikipedia/commons/0/07/Habib_Umar_bin_Hafidz%2C_Nabawi_TV%2C_08.44.jpg",
+      author: "Habib Omar - http://alhabibomar.com",
+      audio: " https://f002.backblazeb2.com/file/habib01/audio/m42/m291142.mp3",
+      color: ["#205950, #2ab3bf"],
+      id: uuidv4(),
+      active: false,
+    },
+    {
+      name: "مجلى التحرر والخلاص وشرف الارتقاء بصدق الالتجاء إلى الإله الحق وشهود مَّنته والتذلل بين يديه بخالص رجائه",
+      cover:
+        "https://upload.wikimedia.org/wikipedia/commons/0/07/Habib_Umar_bin_Hafidz%2C_Nabawi_TV%2C_08.44.jpg",
+      author: "Habib Omar - http://alhabibomar.com",
+      audio: " https://f002.backblazeb2.com/file/habib01/audio/m42/m221142.mp3",
+      color: ["#205950, #2ab3bf"],
+      id: uuidv4(),
+      active: false,
+    },
+    {
+      name: "أسرار صوت الدعوة المحمدية وكرامة الإيمان بالله والاعتصام به ونتائجها العلية",
+      cover:
+        "https://upload.wikimedia.org/wikipedia/commons/0/07/Habib_Umar_bin_Hafidz%2C_Nabawi_TV%2C_08.44.jpg",
+      author: "Habib Omar - http://alhabibomar.com",
+      audio: " https://f002.backblazeb2.com/file/habib01/audio/m42/m151142.mp3",
+      color: ["#205950, #2ab3bf"],
+      id: uuidv4(),
+      active: false,
+    },
 
     {
       head: "شرح كتاب عوارف المعارف",
