@@ -26,7 +26,7 @@ const Library = ({
           borderBottom: "2px solid rgb(105, 141, 102)",
         }}
       >
-        <h2>Library</h2>
+        <h2>المكتبة الصوتـية</h2>
         <button onClick={() => setLibraryStatus(!libraryStatus)}>
           <FontAwesomeIcon icon={faTimes} />
         </button>
